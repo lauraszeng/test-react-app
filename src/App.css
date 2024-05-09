@@ -13,6 +13,17 @@
   }
 }
 
+
+#fish_list {
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+}
+
+div {
+  text-align: center;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
